@@ -1,0 +1,4 @@
+DataSize,HashMap_Insert(us),HashMap_Search(us),HashMap_Delete(us),HashMap_RangeQuery(us),HashMap_OrderedTraversal(us),HashMap_Memory(KB),BPTree_Insert(us),BPTree_Search(us),BPTree_Delete(us),BPTree_RangeQuery(us),BPTree_OrderedTraversal(us),BPTree_Memory(KB)
+100,35,4,10,5,13,3904,48,3,1,3,1,3904
+500,123,28,46,18,96,4004,246,13,3,2,3,4004
+1000,114,22,49,17,105,4132,211,14,2,10,3,4132
